@@ -1,0 +1,15 @@
+.profile_page__my_posts {
+    margin-top: 20px;
+    margin-left: 30px;
+    font-weight: 500;
+}
+.my_posts__input {
+    margin-top: 10px;
+    margin-left: 5px;
+    width: 780px;
+    height: 100px;
+    background-color: #e9e7e7;
+    border: none;
+    outline: none;
+    padding: .0rem .5rem 3.55rem .25rem;
+}

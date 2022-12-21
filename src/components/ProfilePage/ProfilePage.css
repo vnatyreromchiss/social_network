@@ -1,0 +1,34 @@
+.profile_page {
+    /* width: 700px; */
+}
+.profile_page__background_image {
+    margin-top: 15px;
+    margin-left: 15px;
+    /* position: absolute; */
+    width: 175%;
+    max-width: 800px;
+    max-height: 180px;
+    float: left;
+  
+}
+  
+.profile_page__block {
+    /* display: grid;    */
+}
+.profile_page__avatar {
+    margin-left: 35px;
+}
+.profile_page__avatar_image { 
+    margin-top: 25px;
+    width: 100%;
+    max-width: 100px;
+}
+.profile_page__information {
+    margin-top: -100px;
+    margin-left: 155px;
+}
+.profile_page__header {
+    font-size: 24px;
+    font-weight: 600;
+}
+  
